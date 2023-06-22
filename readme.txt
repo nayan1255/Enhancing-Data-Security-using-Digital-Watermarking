@@ -91,12 +91,6 @@ Execution of Project
 	->click on ok
 	->open browser->type url localhost:8080/home 
  
-___________________________________________
-If you not understand: - 
-
-Go to this link
-
-https://github.com/nayanthorat125/CloudWaterMarking
 
 
  
